@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: books
+  datasource:
+    url: jdbc:h2:file:./mydb
+    username: admin
+    password: 152367467
+    driverClassName: org.h2.Driver
